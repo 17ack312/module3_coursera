@@ -1,0 +1,66 @@
+
+* {
+    box-sizing: border-box;
+   font-family: 'Courier New', Courier, monospace;
+   color: black;
+}
+
+h1 {
+    font-family: algerian;
+    font-weight: bold;
+}
+
+section.container-fluid {
+    margin: 10px;
+}
+
+h2 {
+    font-family: bell-mt;
+    font-weight: bold;
+    font-size: 1.5em;
+}
+div.container-fluid {
+    background-color: rgb(241, 231, 227);
+    color: black;    
+}
+p{
+    font-family: consolas;
+}
+.navbar-brand{
+    font-size: 3em;
+    color: black;
+}
+
+.navbar-default .navbar-nav > li > a:hover {
+    background-color: darkcyan;
+    color: red;
+}
+
+.navbar-default .navbar-nav > li > a {
+    background-color: rgb(223, 223, 223);
+}
+
+.navbar-default #bs-example-navbar-collapse-1 {
+    background-color:rgb(206, 152, 132);
+    color: blue;
+}
+*
+.navbar-nav {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    color: black;
+}
+
+#c {
+    background-color: #D3D3D3;
+
+    
+}
+
+#b {
+    background-color: #FFE2B7;
+}
+
+#s {
+    background-color: rgb(179, 209, 221);
+}
